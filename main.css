@@ -3,10 +3,9 @@ h1 {
 }
 
 .class-style {
-  background: violet;
+  background: rgb(195, 147, 195);
 }
 
 #id-style {
   background: dodgerblue;
 }
-
